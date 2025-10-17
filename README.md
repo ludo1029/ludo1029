@@ -47,3 +47,8 @@
 
 ### ⚡ Fun fact
 Je suis aussi passionné par les **voyages nordiques**, les **saunas dans les fjords** et les **projets DIY** 🔧
+
+<p align="center">
+  <img src="5EjY.gif" alt="GIF de présentation" width="400"/>
+</p>
+
