@@ -42,7 +42,6 @@
 ### 🌍 Me retrouver
 
 📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon)  
-💻 **GitHub** : [github.com/LudovicBocquillon](https://github.com/LudovicBocquillon)
 
 ---
 
