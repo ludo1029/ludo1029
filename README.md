@@ -18,11 +18,13 @@
 
 ### 🛠️ Compétences techniques
 
+### ⚙️ Compétences techniques
+
 | Domaine | Compétences |
 |----------|-------------|
-| **Langages** | Python, C#, MATLAB |
-| **Outils & frameworks** | Selenium, Cucumber, Simulink, Arduino, Git, Maven |
-| **CAO / Électronique** | SolidWorks, KiCad, Fusion360, Arduino IDE |
+| **Langages** | Python, C#, MATLAB, SQL |
+| **Ingénierie & systèmes embarqués** | Développement sur microcontrôleurs, communication série, contrôle moteur, capteurs, intégration logicielle et prototypage rapide |
+| **CAO / Électronique** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience |
 
 ---
 
