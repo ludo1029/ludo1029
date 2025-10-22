@@ -1,6 +1,6 @@
 ## 💫 Salut, moi c’est **Ludovic Bocquillon**
 
-🎓 Étudiant ingénieur en 3ᵉ année à l’**ESILV (École Supérieure d’Ingénieurs Léonard de Vinci)**  
+🎓 Étudiant ingénieur en 4ᵉ année à l’**ESILV (École Supérieure d’Ingénieurs Léonard de Vinci)**  
 🚀 Passionné par la **mécanique**, la **mécatronique** et le **secteur aérospatial**  
 🧠 Membre de l’association **LeoFly**, où je contribue à des projets de fusées étudiantes  
 ⚙️ Toujours curieux d’apprendre, de concevoir et d’automatiser !
