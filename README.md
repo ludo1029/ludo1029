@@ -26,15 +26,14 @@
 | **Ingénierie & systèmes embarqués** | Développement sur microcontrôleurs, communication série, contrôle moteur, capteurs, intégration logicielle et prototypage rapide |
 | **CAO / Électronique** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience |
 
----
-
-### 🌍 Me retrouver
-
-📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon)  
-
 
 <p align="center">
   <img src="WTBt.gif" alt="gifi.gif" width="200"/>
   <img src="6fq.gif" alt="6fq.gif" width="200"/>
 </p>
 
+---
+
+### 🌍 Me retrouver
+
+📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon)  
