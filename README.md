@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="5EjY.gif" alt="gifi.gif" width="400"/>
-  <img src="5EjY.gif" alt="6fq.gif" width="400"/>
+  <img src="gifi.gif" alt="gifi.gif" width="400"/>
+  <img src="6fq.gif" alt="6fq.gif" width="400"/>
 </p>
 
