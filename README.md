@@ -36,4 +36,4 @@
 
 ### 🌍 Me retrouver
 
-📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon)  
+📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon-b65b73255)  
