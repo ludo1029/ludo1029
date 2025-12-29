@@ -16,15 +16,13 @@
 - 🏃‍♂️ En dehors des études, je joue au football en club ⚽ et travaille en tant qu'hôte d'accueil pour différentes agences.
 ---
 
-### 🛠️ Compétences techniques
-
 ### ⚙️ Compétences techniques
 
 | Domaine | Compétences |
 |----------|-------------|
 | **Langages** | Python, C#, MATLAB, SQL |
 | **Ingénierie & systèmes embarqués** | Développement sur microcontrôleurs, communication série, contrôle moteur, capteurs, intégration logicielle et prototypage rapide |
-| **CAO / Électronique** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience |
+| **CAO / Électronique / FEA** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience, Ansys |
 
 
 <p align="center">
