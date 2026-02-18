@@ -15,6 +15,22 @@
 
 ---
 
+### ⚙️ Compétences multidisciplinaires 
+
+| Domaine | Compétences |
+|----------|-------------|
+| **Langages** | Python, C#, MATLAB, SQL |
+| **Clash of clan** | Top 30 français fut un temps, record de trophées avoisinant les 6100 |
+| **Ingénierie & systèmes embarqués** | Développement microcontrôleurs, communication série, contrôle moteur, capteurs, prototypage rapide |
+| **Football** | Latéral gauche d'exception, même Nuno Mendes est choqué |
+| **CAO / Électronique / FEA** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience, Ansys |
+| **Animal de compagnie** | Ma dénommée Floppy, Ender 3 V2 qui trime encore malgré son grand âge |
+
+
+**Mon rêve ?**  Vivre au pays basque avec mon futur chien
+
+---
+
 ### 🚀 Mes Projets & Réalisations
 
 <details>
@@ -25,31 +41,27 @@
 | :--- | :--- | :--- |
 | [**CubeSat 1U**](https://github.com/votre-lien) | 🚀 Aérospatial / CAO / Ansys | Design et Analyse vibratoire d'un Cubesat 1U |
 | [**Aresa 2500 MLD**](https://github.com/ludo1029/Aresa_2500_MLB) | 🚢 CAO | Modélisation CAO à l'échelle réelle du navire de surveillance Aresa 2500 MLD |
-| [**Propeller Maintenance**](https://github.com/ludo1029/Machine-Learning_Propeller-maintenance) | 💻 Python / ML | <img src="https://via.placeholder.com/180x100?text=ML+Propeller" width="180" alt="ML"/> |
-| [**Robot Quadrupède**](https://github.com/ludo1029/robot_quadrupede) | 🤖 Mécatronique | <img src="https://via.placeholder.com/180x100?text=Quadrupede" width="180" alt="Robot"/> |
-| [**Phototèque Avion**](https://github.com/ludo1029/Phototeque_avion) | ✈️ Photo | <img src="https://via.placeholder.com/180x100?text=Phototeque" width="180" alt="Photo"/> |
-| [**Turbomoteur**](https://github.com/ludo1029/Modelisme_Turbomoteur) | ⚙️ Modélisme / CAO / Elec | <img src="https://via.placeholder.com/180x100?text=Turbomoteur" width="180" alt="Turbo"/> |
-| [**Banc moteur**](https://github.com/votre-lien) | 🔧 CAO / Capteurs | <img src="https://via.placeholder.com/180x100?text=Banc+Moteur" width="180" alt="Banc"/> |
+| [**Propeller Maintenance**](https://github.com/ludo1029/Machine-Learning_Propeller-maintenance) | 💻 Python / ML | Machine Learning maintenance prédictive d'hélices |
+| [**Robot Quadrupède**](https://github.com/ludo1029/robot_quadrupede) | 🤖 Mécatronique | Projet sous contraintes : Robot Quadrupède  |
+| [**Phototèque Avion**](https://github.com/ludo1029/Phototeque_avion) | ✈️ Photo | Des photos d'engins volants (le plus beau restera toukours de P-38) |
+| [**Turbomoteur**](https://github.com/ludo1029/Modelisme_Turbomoteur) | ⚙️ Modélisme / CAO / Elec | Modélisme d'un turbocompresseur équipant le DH-Vampire |
+| [**Banc moteur**](https://github.com/votre-lien) | 🔧 CAO / Capteurs | Projet Associatif  : banc de test moteur EDF |
 
 </details>
 
+
+
 ---
 
-### ⚙️ Compétences techniques
+### 🌍 Me retrouver 
 
-| Domaine | Compétences |
-|----------|-------------|
-| **Langages** | Python, C#, MATLAB, SQL |
-| **Ingénierie & systèmes embarqués** | Développement microcontrôleurs, communication série, contrôle moteur, capteurs, prototypage rapide |
-| **CAO / Électronique / FEA** | SolidWorks, KiCad, Fusion 360, Arduino IDE, 3DExperience, Ansys |
+- **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon-b65b73255)
+- **Contact Direct** : le dimanche au stade de Tremblay 
+- **Me contactez pas**  j'ai déjà un ***stage*** HEHE BOYYYY (sauf si j'oublie d'enlever cette ligne après Septembre 2026)
 
-<p align="center">
+---
+
+  <p align="center">
   <img src="WTBt.gif" alt="gifi.gif" width="200"/>
   <img src="6fq.gif" alt="6fq.gif" width="200"/>
 </p>
-
----
-
-### 🌍 Me retrouver
-
-📫 **Contact pro** : [LinkedIn](https://www.linkedin.com/in/ludovic-bocquillon-b65b73255)
