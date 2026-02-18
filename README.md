@@ -20,9 +20,13 @@
 | Projet | Catégorie | Aperçu |
 | :--- | :--- | :--- |
 | [**CubeSat 1U**](https://github.com/votre-lien) | 🚀 Aérospatial / CAO / FEA | <img src="https://via.placeholder.com/180x100?text=Fusee+LeoFly" width="180" alt="Fusée"/> |
-| [**Aresa 2500 MLB**](https://github.com/votre-lien) | CAO | <img src="https://via.placeholder.com/180x100?text=PCB+Design" width="180" alt="PCB"/> |
-| [**Propeller Predictive Maintenance**](https://github.com/votre-lien) | Coding | <img src="https://via.placeholder.com/180x100?text=Ansys+Simu" width="180" alt="Simulation"/> |
-| [**Robot Quadrupède**](https://github.com/votre-lien) | Mécatronique | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+| [**Aresa 2500 MLB**](https://github.com/ludo1029/Aresa_2500_MLB) | CAO | <img src="https://via.placeholder.com/180x100?text=PCB+Design" width="180" alt="PCB"/> |
+| [**Propeller Predictive Maintenance**](https://github.com/ludo1029/Machine-Learning_Propeller-maintenance) | Code Python / MAchine Learning | <img src="https://via.placeholder.com/180x100?text=Ansys+Simu" width="180" alt="Simulation"/> |
+| [**Robot Quadrupède**](https://github.com/ludo1029/robot_quadrupede) | Mécatronique | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+| [**Phototèque Avion**](https://github.com/ludo1029/Phototeque_avion) | Photo | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+| [**Turbomoteur**](https://github.com/ludo1029/Modelisme_Turbomoteur) | Modélisme / CAO / electronique | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+| [**Banc moteur**](https://github.com/votre-lien) | CAO / Intégration capteurs| <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+
 
 ---
 
