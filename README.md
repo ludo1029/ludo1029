@@ -17,16 +17,21 @@
 
 ### 🚀 Mes Projets & Réalisations
 
-| Projet | Catégorie | Aperçu |
-| :--- | :--- | :--- |
-| [**CubeSat 1U**](https://github.com/votre-lien) | 🚀 Aérospatial / CAO / FEA | <img src="https://via.placeholder.com/180x100?text=Fusee+LeoFly" width="180" alt="Fusée"/> |
-| [**Aresa 2500 MLB**](https://github.com/ludo1029/Aresa_2500_MLB) | CAO | <img src="https://via.placeholder.com/180x100?text=PCB+Design" width="180" alt="PCB"/> |
-| [**Propeller Predictive Maintenance**](https://github.com/ludo1029/Machine-Learning_Propeller-maintenance) | Code Python / MAchine Learning | <img src="https://via.placeholder.com/180x100?text=Ansys+Simu" width="180" alt="Simulation"/> |
-| [**Robot Quadrupède**](https://github.com/ludo1029/robot_quadrupede) | Mécatronique | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
-| [**Phototèque Avion**](https://github.com/ludo1029/Phototeque_avion) | Photo | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
-| [**Turbomoteur**](https://github.com/ludo1029/Modelisme_Turbomoteur) | Modélisme / CAO / electronique | <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
-| [**Banc moteur**](https://github.com/votre-lien) | CAO / Intégration capteurs| <img src="https://via.placeholder.com/180x100?text=Automation" width="180" alt="Robot"/> |
+<details>
+<summary><b>📂 Cliquez ici pour voir la liste de mes projets (Table des matières)</b></summary>
+<br />
 
+| Projet | Catégorie | Description |
+| :--- | :--- | :--- |
+| [**CubeSat 1U**](https://github.com/votre-lien) | 🚀 Aérospatial / CAO / Ansys | Design et Analyse vibratoire d'un Cubesat 1U |
+| [**Aresa 2500 MLD**](https://github.com/ludo1029/Aresa_2500_MLB) | 🚢 CAO | Modélisation CAO à l'échelle réelle du navire de surveillance Aresa 2500 MLD |
+| [**Propeller Maintenance**](https://github.com/ludo1029/Machine-Learning_Propeller-maintenance) | 💻 Python / ML | <img src="https://via.placeholder.com/180x100?text=ML+Propeller" width="180" alt="ML"/> |
+| [**Robot Quadrupède**](https://github.com/ludo1029/robot_quadrupede) | 🤖 Mécatronique | <img src="https://via.placeholder.com/180x100?text=Quadrupede" width="180" alt="Robot"/> |
+| [**Phototèque Avion**](https://github.com/ludo1029/Phototeque_avion) | ✈️ Photo | <img src="https://via.placeholder.com/180x100?text=Phototeque" width="180" alt="Photo"/> |
+| [**Turbomoteur**](https://github.com/ludo1029/Modelisme_Turbomoteur) | ⚙️ Modélisme / CAO / Elec | <img src="https://via.placeholder.com/180x100?text=Turbomoteur" width="180" alt="Turbo"/> |
+| [**Banc moteur**](https://github.com/votre-lien) | 🔧 CAO / Capteurs | <img src="https://via.placeholder.com/180x100?text=Banc+Moteur" width="180" alt="Banc"/> |
+
+</details>
 
 ---
 
